@@ -1,0 +1,51 @@
+# Build settings
+permalink: /blog/:year/:title/
+markdown: kramdown
+highlighter: pygments
+gems: [jekyll-paginate]
+
+paginate: 3
+paginate_path: "/blog/page/:num/"
+comments: true
+
+source: source
+destination: _site
+sass:
+  sass_dir: _sass
+  style: compressed # expanded
+
+# SEO settings
+title: R4ndomBits
+description: "Shivanshu Singh's Blog"
+keywords: "Jekyll, blog, web"
+url: http://nandomoreira.me
+baseurl: "/"
+
+google_analytics: UA-52446115-1
+repo: http://github.com/shivnshu/blog
+disqus_shortname: "shivnshu"
+disqus_site_shortname: "shivnshu"
+
+# Author settings
+author:
+  name: Shivanshu Singh
+  job: Student
+  bio: "Geek, Programmer, Egalitarian and technology enthusiast"
+  thumb: /images/author.jpg
+  email: shivanshusinghraj@gmail.com
+  url: https://nandomoreira.me/
+  github: https://github.com/shivnshu
+  twitter: https://twitter.com/
+  facebook: https://facebook.com/
+  linkedin: https://linkedin.com/in/
+
+# navbar pages
+navbar:
+  - slug: about
+    title: About
+  - slug: icons
+    title: Icons
+  - slug: blog
+    title: Blog
+
+exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
