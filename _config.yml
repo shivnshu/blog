@@ -2,7 +2,7 @@
 permalink: /blog/:year/:title/
 markdown: kramdown
 highlighter: pygments
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 paginate: 3
 paginate_path: "/blog/page/:num/"
@@ -18,22 +18,20 @@ sass:
 title: R4ndomBits
 description: "Shivanshu Singh's Blog"
 keywords: "Jekyll, blog, web"
-url: http://nandomoreira.me
-baseurl: "/"
+url: http://r4ndombits.me
+baseurl: ""
 
-google_analytics: UA-52446115-1
-repo: http://github.com/shivnshu/blog
 disqus_shortname: "shivnshu"
-disqus_site_shortname: "shivnshu"
+disqus_site_shortname: "r4ndombit"
 
 # Author settings
 author:
   name: Shivanshu Singh
-  job: Student
-  bio: "Geek, Programmer, Egalitarian and technology enthusiast"
-  thumb: /images/author.jpg
+  job: Senior Undergraduate
+  bio: "Geek, Programmer, Egalitarian and Technology Enthusiast"
+  thumb: /images/profile.jpg
   email: shivanshusinghraj@gmail.com
-  url: https://nandomoreira.me/
+  url: https://r4ndombits.me/
   github: https://github.com/shivnshu
   twitter: https://twitter.com/
   facebook: https://facebook.com/
@@ -43,8 +41,6 @@ author:
 navbar:
   - slug: about
     title: About
-  - slug: icons
-    title: Icons
   - slug: blog
     title: Blog
 
