@@ -28,14 +28,14 @@ disqus_site_shortname: "r4ndombit"
 author:
   name: Shivanshu Singh
   job: Senior Undergraduate
-  bio: "Geek, Programmer, Egalitarian and Technology Enthusiast"
+  bio: "Geek, Programmer and Technology Enthusiast"
   thumb: /images/profile.jpg
   email: shivanshusinghraj@gmail.com
   url: https://r4ndombits.me/
   github: https://github.com/shivnshu
-  twitter: https://twitter.com/
-  facebook: https://facebook.com/
-  linkedin: https://linkedin.com/in/
+  goodreads: https://www.goodreads.com/shivnshu 
+  facebook: https://www.facebook.com/shivnshu
+  linkedin: https://www.linkedin.com/in/shivnshu/
 
 # navbar pages
 navbar:
