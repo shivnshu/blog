@@ -18,7 +18,7 @@ sass:
 title: R4ndomBits
 description: "Shivanshu Singh's Blog"
 keywords: "Jekyll, blog, web"
-url: http://r4ndombits.me
+url: http://shivnshu.github.io/blog
 baseurl: ""
 
 disqus_shortname: "shivnshu"
@@ -31,7 +31,7 @@ author:
   bio: "Programmer, Book Addict and Technology Enthusiast"
   thumb: /images/profile.jpg
   email: shivanshusinghraj@gmail.com
-  url: https://r4ndombits.me/
+  url: http://shivnshu.github.io/blog
   github: https://github.com/shivnshu
   goodreads: https://www.goodreads.com/shivnshu
   facebook: https://www.facebook.com/shivnshu
