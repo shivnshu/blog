@@ -30,7 +30,7 @@ task :generate do
 end
 
 desc "Generate and publish blog to gh-pages"
-task :publish => [:generate] do
+task :publish do
     system "git subtree push --prefix _site origin #{GITHUB_REPO_BRANCH} "
 end
 
