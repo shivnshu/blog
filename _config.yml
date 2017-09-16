@@ -17,7 +17,7 @@ sass:
 # SEO settings
 title: R4ndomBits
 description: "Shivanshu Singh's Blog"
-keywords: "Jekyll, blog, web"
+keywords: "jekyll, blog, web"
 url: http://shivnshu.github.io/blog
 baseurl: ""
 
