@@ -12,4 +12,4 @@ I am Shivanshu Singh, a Senior Undergraduate majoring in Mechanical Engineering 
 
 Welcome to my website! Here, you will find posts about books, interesting tech stuff, computer languages, operating systems, networks..  In short, from my reflections on random topics to articles on science, everything that matters to me will be posted here.
 
-Keep learning!!
+Happy learning!!
