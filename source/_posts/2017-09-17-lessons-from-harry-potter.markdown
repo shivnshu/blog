@@ -20,7 +20,7 @@ Harry Potter series, one of the most celebrated set of books of all times, alway
     <br/>
     Not only does HP portray these problems, it also makes reader to look for such things and fix them. Even though, in HP, it never occured to most peoples to empathise with house-elves, Harry found a way to free Dobby and Hermione fought for their rights. The propaganda of Voldemort and death eater's teach us not to be swayed by eloquent speeches. It is extremely important to not blindly follow the norm and actively look for problems in society.</li>
     <br/>
-    <li><strong>Seemingly ordinary peoples can be lead extraordinary life</strong>
+    <li><strong>Seemingly ordinary peoples can lead extraordinary lives</strong>
     <br/>
     Harry is the characterization of a person who is neither strongest nor smartest, but still he was able to make the difference. He tells us that anyone can succeed with the right attitude an right companions. His charater is the reminder that it is our choices that show who we truly are, far more than our abilities. After all, everyone is the protagonist of his/her life.</li>
     <br/>
