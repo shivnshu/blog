@@ -26,5 +26,5 @@ Harry Potter series, one of the most celebrated set of books of all times, alway
     <br/>
     <li><strong>Peoples aren't what they look</strong>
     <br/>
-    Snape, despised by many, turns out to be a hidden hero. He tells us that the evil looking person who always seems to trouble you actually be your guardian angle. The crazy mad murderer locked in Azkaban might actually be an innocent victim. This, not judging a book by its cover, is a recurrent theme in the Harry Potter series.</li>
+    Snape, despised by many, turns out to be a hidden hero. He tells us that the evil looking person who always seems to trouble you actually be your guardian angel. The crazy mad murderer locked in Azkaban might actually be an innocent victim. This, not judging a book by its cover, is a recurrent theme in the Harry Potter series.</li>
 </ol>
