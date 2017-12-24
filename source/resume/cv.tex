@@ -29,7 +29,7 @@
 % Color for highlights
 % Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
 %                 awesome-nephritis, awesome-concrete, awesome-darknight
-\colorlet{awesome}{awesome-concrete}
+\colorlet{awesome}{awesome-darknight}
 % Uncomment if you would like to specify your own color
 % \definecolor{awesome}{HTML}{CA63A8}
 
@@ -54,7 +54,7 @@
 % Available options: circle|rectangle,edge/noedge,left/right
 % \photo{./examples/profile.png}
 \name{Shivanshu}{Singh}
-\position{Final Year Undergraduate{\enskip\cdotp\enskip}}
+\position{Final Year Undergraduate}%{\enskip\cdotp\enskip}}
 \address{Indian Institute of Technology Kanpur}
 
 \mobile{(+91) 8004610134}
@@ -111,14 +111,16 @@
 %---------------------------------------------------------
   \cventry
     {Software Intern, AutoDesk (Received Pre-Placement Offer)} % Job title
-    {Auto Scaling of Microservices running on docker containers} % Organization
+    {Auto Scaling of Microservices running on Docker Containers} % Organization
     {Pune, India} % Location
     {May. 2017 - July. 2017} % Date(s)
     {
       \begin{cvitems} % Description(s) of tasks/responsibilities
         \item {Worked on adding the auto-scaling functionality for containers of DC/OS cluster running microservices.}
-        \item {Designed, implemented and deployed the required architecture in AWS cloud. (using Lambda functions, Redis database, CloudWatch and a SNS topic)}
-        \item {Employed a machine learning technique to make the calculated guess of amount of scaling (up/down) for each service.}
+        \item {Built an abstract and modular design with two components, one responsible for fetching and arranging metrices and, other for decision making and scaling.}
+        \item {Used separate AWS lambda functions for components and AWS SNS service for communication between them.}
+        \item {Maintained designed state variables of micro-services in Redis database and used AWS CloudWatch for periodic invocation of first component.}
+        \item {Employed a machine learning technique (Stochastic Gradient Descent), in the second component, to make the calculated guess of amount of scaling (up/down) for each micro-service.}
       \end{cvitems}
     }
 
@@ -137,7 +139,12 @@
     {Sep. 2017 - Nov. 2017} % Date(s)
     {
       \begin{cvitems} % Description(s) of experience/contributions/knowledge
-        \item {}
+        \item {Studied the source code of KSM, a linux kernel(v4.14.4) thread responsible for implementing memory deduplication in linux operating systems.}
+        \item {Constructed a covert channel for communication between two processes running on same physical machine, separated by VMs.}
+        \item {Exploited the write-time differences between merged and unmerged pages, caused by COW(copy-on-write) on merged pages, for covert channel construction.}
+        \item {Designed and developed a synchronized protocol for reliable communication between processes using two mutually known pages content.}
+        \item {Simulated the information disclosure attack, caused by merging, to detect the content of javascript object typed array in web browser.}
+        \item {Devised and developed two mitigation techniques, \textit{stochastic false merging} and \textit{stochastic false unmerging}, to introduce significant amount of noise in write time, thus making the covert channel unreliable.}
       \end{cvitems}
     }
 
@@ -149,7 +156,11 @@
     {Sep. 2017 - Nov. 2017} % Date(s)
     {
       \begin{cvitems} % Description(s) of experience/contributions/knowledge
-        \item {}
+      \item {Worked on improving the sematic information in feature vector representation and consequently classification accuracy of images by leveraging the additional depth channel along with color channels based on \href{http://ieeexplore.ieee.org/iel7/6046/7302100/07258382.pdf}{this} paper.}
+        \item {Developed a generic convolutional neural network (CNN) that takes two modals as input, processes them separately, correlate them using two correlation matrices and output their linear combination.}
+        \item {Used a cost/loss function consisting of weighted loss in individual modal CNNs and designed loss incurred while calculating the correlational matrices.}
+        \item {Employed an alternating approach for optimizing the weights assigned to individual modal in loss function and the correlational matrices.}
+        \item {Demonstrated successfully the increased classification accuracy when compared to accuracies obtained by using only one modality or several modality but not correlating them.}
       \end{cvitems}
     }
 
@@ -172,13 +183,21 @@
 % --------------------------------------------------------
 \end{cventries}
 
+\cvsection{Research Interests}
+
+\begin{cventries}
+    \begin{flushleft}
+        Broadly Interested in Computer Systems, Cyber-Security and Networking
+    \end{flushleft}
+\end{cventries}
+
 \cvsection{Hackathons}
 
 \begin{cventries}
 
 %---------------------------------------------------------
   \cventry
-    {Winner, 24-hours hackathon, Microsoft's Code.Fun.Do} % Affiliation/role
+  {\textbf{Winner}, 24-hours hackathon, Microsoft's Code.Fun.Do} % Affiliation/role
         {\href{https://github.com/shivnshu/AMR-System}{AMR (Advanced Motion Recognition) System}} % Organization/group
     {} % Location
     {Apr. 2017} % Date(s)
@@ -193,7 +212,7 @@
 %
 %---------------------------------------------------------
   \cventry
-    {Winner, 24-hours hackathon, Google Developer Group} % Affiliation/role
+  {\textbf{Winner}, 24-hours hackathon, Google Developer Group} % Affiliation/role
         {\href{https://github.com/shivnshu/hashtag}{HashTag}} % Organization/group
     {} % Location
     {Nov. 2016} % Date(s)
@@ -213,10 +232,10 @@
 
 %---------------------------------------------------------
     \begin{cvitems} % Description(s) of experience/contributions/knowledge
-        \item {Implemented various locking mechanisms like spin lock, semaphores, sequencial lock, RCU etc. in linux kernel and compared them empirically.}
+        \item {Implemented various locking mechanisms like spin lock, semaphores, sequencial lock, RCU etc. in linux kernel and compared their efficiency empirically.}
         \item {Built \href{https://github.com/shivnshu/chatroom}{chat room} for processes, when in kernel mode, using a char device and employing the monolithic nature of linux kernel.}
-        \item {Studied and presented \href{http://home.iitk.ac.in/~shivansh/resources/proofmethods-corecursion.pdf}{various proof methods} like coinduction, fusion etc. for corecursive programs of functional languages.}
-        \item {Conceptualised and designed a responsive website for Cultural Council using CodeIgniter MVC framework, jQuery etc.}
+        \item {Studied and presented various proof methods like coinduction, fusion etc. for corecursive programs of functional languages. \href{http://home.iitk.ac.in/~shivansh/resources/proofmethods-corecursion.pdf}{ppt.}}
+        \item {Conceptualised and designed a responsive website for Cultural Council, IIT Kanpur using CodeIgniter MVC framework, jQuery etc.}
     \end{cvitems}
 
 %---------------------------------------------------------
@@ -231,7 +250,7 @@
 %---------------------------------------------------------
   \cvskill
     {Programming} % Category
-    {C/C++, Python, Haskell, bash scripting} % Skills
+    {C, Java, Python, Haskell, bash scripting} % Skills
 
 %---------------------------------------------------------
   \cvskill
@@ -251,7 +270,7 @@
         \begin{tabular}{l l l}
                 Computer Systems Security (A)& Computer Organization* & Introduction to Programming (A)\\
                 Linux Kernel Programming (A) & Principles of Programming Languages (A) & Modern Cryptography*\\
-                \textit{\small {\color{lightgray}* ongoing courses}}
+                \textit{\small {\color{lightgray}A: Top Grade, * ongoing courses}}
         \end{tabular}
 \vspace{-0.3cm}
 \end{cventries}
@@ -260,7 +279,8 @@
 
 \begin{cventries}
         \begin{cvitems}
-        \item {}
+        \item {Write blog about linux, books and programming in general at \href{http://r4ndombits.me}{r4ndombits.me}.}
+        \item {Volunteered in CSAW (Cyber Security Awareness Weekend) organised by NYU and IIT Kanpur.}
         \end{cvitems}
 \end{cventries}
 
