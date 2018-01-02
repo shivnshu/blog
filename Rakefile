@@ -8,7 +8,7 @@ require "jekyll"
 GITHUB_REPONAME = "shivnshu/blog"
 GITHUB_REPO_BRANCH = "gh-pages"
 
-SITE_CUSTOM_DOMAIN = "r4ndombits.me"
+SITE_CUSTOM_DOMAIN = "randombits.xyz"
 
 SOURCE = "source/"
 DEST = "_site"
