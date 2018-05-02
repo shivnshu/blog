@@ -1,0 +1,79 @@
+==================================================================
+https://keybase.io/shivnshu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://randombits.xyz
+    * I am shivnshu (https://keybase.io/shivnshu) on keybase.
+      * I have a public key with fingerprint 5FE0 207E 2C95 5383 9F8C  27D7 EDA6 B6DE 6AEB F099
+
+      To do so, I am signing this object:
+
+{
+        "body": {
+                "key": {
+                              "eldest_kid": "0120e80cb84fb7c5c1c8d10b75588c3e9536fa239a266a6c623a9835f523a12faa490a",
+                                    "fingerprint": "5fe0207e2c9553839f8c27d7eda6b6de6aebf099",
+                                          "host": "keybase.io",
+                                                "key_id": "eda6b6de6aebf099",
+                                                      "kid": "0101edbe91bfe3071241bb9488daf18abb648a46f7b7b7e4da06e56fd536d9e699450a",
+                                                            "uid": "15cdb0cf053b9d55a14d7bcaacb33719",
+                                                                  "username": "shivnshu"
+                                                                      
+                },
+                "service": {
+                              "hostname": "randombits.xyz",
+                                    "protocol": "https:"
+                                        
+                },
+                    "type": "web_service_binding",
+                        "version": 1
+                          
+        },
+          "ctime": 1525293608,
+            "expire_in": 157680000,
+              "prev": "287db0b8990abb38928bd2adac6dbc248694d030573d99c2c82591f8924499fd",
+                "seqno": 17,
+                  "tag": "signature"
+
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMN4AnicbVJ7UFRVHN4lQ0BCHjGJFA3XfI0r3fe9h4B8pA6uT3rgMLBwz73n7l5c
+dtd9wBICog5DiggjU+rAYIUku0mjEtRQE2IUjVGU42ZKzoSOjIsIGYpSM3Yvo/91
+zh/n9X3f+b7fOd8+94wuQj/e1nW9cGzymP7i+eMeXU4QW1aGQbtUiqWWYTvR7ICs
+EnK583cqEpaK4QSJIx4XIU/LkBMZkRB5icAhxzA8L1IIMBQrCyQFBJJlBVZkSUoA
+PMXIjDohSFkQaIALmAGTFZsZOR1OxeZWZRkZ4STOIVIEDEPxFJB5keQkDkkCC1kJ
+sQKCMg6ASrTYXRpDNQcFF0pR7Oqeusiftfc/+Ke+cQJJEAECyojCOYKkCQgBzfOS
+IBO8ACFL8wLNyhxUO6IlAWcRw8qSmkcCiAWAZmZ9e2blCEaUIC7KOENBIDGMQNAS
+B0VBECFFcYR2r8eFnDahCKlol0UptrksHqzcgKm7xYqItMJqSZ4gnIJNshdBxe1K
+8Za+q7IdTrvbLtqt6pnF7Xa4UjWuu9ShgUsQzH8ikw8Vm6RWUmUUI6dLsduwVEJF
+im5F0yUYkiEBxeK8AUNeh+JE+YqGYDiWx9Wm3YOKVUmS59Q8kAfq40BI8YDkoUQK
+kiCyEhRJmmcBLeEUznCUBIBIijzJAEJWcTQNgCxhWrBdNruqzak+BbOWWjHbBLfH
+ibDyvvO5c3T6CF3osyHaF9NFhEc//XgdR6J1hzIeuJLK+wdn0ttujjZknhi+c/at
+w8PeqyWh/Zfap2Na530cFBJWv5SweUNB37mfVg/HR2MhLZ27EvPEA+2x5uv+E/rE
+2pqae4PbuuSbVUV72jcZa6KW1mRV7/21Mdd+JX3CO+J9fPWR+cNPa0NWnv7IGOjd
+HHf7sx+jJk8NddaZ7l6sap7XO2iqGuwP8sE/ksfn5r3csz5pWdf8zj3byJPZDuMH
+63vRwP7FpV80pkUusVSfqX8754G+wu+Z/MGwd3/1vkCG+JevKrbJ1Pinb9HX75y5
+vX1lZF1TW/rDkMPdfl98W2V/pjeu3rkxZnymIOXNHXdrDo7+bW1NW7JcDvT1dCsr
+ska93+um7LI+d/ua7Bfypm+sNfoqdN9c3tRc5IOr9E5u+ve4RzmBgcd1Rs8kVx4R
+fqenJCv0edPU0rSpDRHxP/tXjD/soHMoh0GeDpsT3X9h6sXLW+oTml8NWXdh0bre
+bEdF4T8L9g213Mp9beCV3veYk9+RXKU1rGv1L5XH156OPxda23iodEjXEe5fuOqT
+wOvB3V9uHDniPpt0zXp/qsME2q9sWd7SYqrmJmZOJd4byfQe7H5jcWBsx2/J1hvH
+3g/zMQuizIlfNW2dyHL0HSgoa0jN7PYYC28Z5u+2zCUbRpODMVvvXyum/f+qlTlK
+LFyDfR7JFcZ3pJDTl4i4jLGeo62x/wEe7MV7
+=dodc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/shivnshu
+
+==================================================================
